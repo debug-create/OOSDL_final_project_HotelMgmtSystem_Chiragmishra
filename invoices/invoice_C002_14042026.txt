@@ -1,0 +1,20 @@
+================================
+         LUMIERE HOTEL          
+           INVOICE              
+================================
+Guest ID   : C002
+Guest Name : Priya Menon
+Contact    : 9123456780
+Room No    : 102
+Room Type  : Single
+Price/Day  : Rs.1200
+Check-in   : 11-04-2026
+Check-out  : 14-04-2026
+Days Stayed: 3
+--------------------------------
+Subtotal   : Rs.3600.00
+Tax (18%)  : Rs.648.00
+TOTAL      : Rs.4248.00
+================================
+   Thank you for your stay!     
+================================
